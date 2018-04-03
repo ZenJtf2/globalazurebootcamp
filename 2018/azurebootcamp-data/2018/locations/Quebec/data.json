@@ -9,11 +9,7 @@
     "Address": "Microsoft Portugal"
   },
 
-  "Callout": {
-    "Text": "Inscreva-se para este evento!",
-    "Link": "http://gablisboa2018.eventbrite.com/",
-    "Type": "default"
-  },
+ 
   "Callspeakers": {
     "Text": "Call for papers!",
     "Link": "https://sessionize.com/GABLisboa2018/",
