@@ -73,12 +73,12 @@
   ],
 "Tracks": [
     {
-      "Name": "",
+      "Name": "Track 1",
       "Sessions": [
         {
           "SessionId": "",
           "Time": "",
-          "Title": ""
+          "Title": "Session 1"
         }
       ]
     }
