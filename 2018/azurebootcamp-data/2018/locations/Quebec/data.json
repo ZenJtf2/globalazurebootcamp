@@ -72,7 +72,7 @@
       "Name": "Track 1",
       "Sessions": [
         {
-          "SessionId": "",
+          "SessionId": "01",
           "Time": "",
           "Title": "Session 1"
         }
